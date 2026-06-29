@@ -1,2 +1,2 @@
-# Car_Sales_Analysis_Python
-This project involves exploratory data analysis (EDA) of a car sales dataset using python.
+# Car_Sales_Analysis_Pytho.
+Python-based car sales data analysis project covering data cleaning, visualization and insight generalization.
